@@ -23,7 +23,7 @@
 ### 功能增强：
 
 1. 图片分割，截取功能
-	- 有条件的话（6GB+ VRAM； 32GB+RAM；SSD recommended  20GB+）可以本地部署mineru  [https://github.com/opendatalab/mineru](https://github.com/opendatalab/mineru)
+	- 有条件的话（6GB+ VRAM； 32GB+RAM；SSD recommended  20GB+）可以本地部署mineru（避免排队问题）  [https://github.com/opendatalab/mineru](https://github.com/opendatalab/mineru)
 	- 用于提取文字和图片截取（不做格式调整和“解读”），然后把结果作为input，输入online的GPT模型（性能更强，理解更好）
 
 ### 可能遇到的问题：
